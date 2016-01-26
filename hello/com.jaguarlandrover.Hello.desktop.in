@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=@PACKAGE_NAME@
+GenericName=Basic Application
+Comment=View a red window
+Icon=@icondir@/hello.svg
+Exec=@bindir@/hello
+DBusActivatable=true
+Categories=Development;Utility

@@ -1,0 +1,5 @@
+# JLR Hello
+
+Hello is the simplest possible program that can reasonably demonstrate
+how to write a well-integrated, functional application for the NGI 3.0
+platform. It uses Qt for graphics.
